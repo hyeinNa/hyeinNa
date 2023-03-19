@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :computer:[웹개발 개념정리 노션링크](https://marble-trillium-cbf.notion.site/920f9f5fffb94744ac0a14f48f7a87b7):computer:
 
 [![hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinNa)](https://github.com/hyeinNa/github-readme-stats)
