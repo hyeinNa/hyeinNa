@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🏫 I major Cyber Security in Ewha Womans University
 
 [![hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinNa)](https://github.com/hyeinNa/github-readme-stats)
