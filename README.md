@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinNa)](https://github.com/hyeinNa/github-readme-stats)
 -->
 🏫 I major Cyber Security in Ewha Womans University
 
-[![hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinNa)](https://github.com/hyeinNa/github-readme-stats)
+
